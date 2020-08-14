@@ -332,9 +332,9 @@ angle = template_filename_arr[2]
 # cats = ["01","02","03","04","05","06","07","08","09","10","11"]
 
 # positions = ['tl', 'tr', 'bl', 'br','cr']
-positions = ['tc', 'bc']
-wrapped_positions = ['l', 'r','c']
-opacities = [25, 50, 75, 100]
+positions = ['tc', 'bc', 'cr']
+wrapped_positions = ['c']
+opacities = [50, 75, 100]
 
 # for c in cats:
 #     for s in suits:
